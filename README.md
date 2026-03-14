@@ -24,134 +24,138 @@
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-🎓 Computer Science graduate specializing in **Artificial Intelligence & Machine Learning**.
+Computer Science graduate specializing in **Artificial Intelligence and Machine Learning**.
 
-💡 Passionate about building **AI-powered systems, NLP applications, and data analytics dashboards** that solve real-world problems.
+Passionate about building **AI-powered systems, NLP applications, and data analytics dashboards** that solve real-world problems.
 
-🔍 Interested in:
-- Machine Learning
-- Natural Language Processing
-- Explainable AI
-- Data Analytics & Visualization
+**Key Interests**
+
+- Machine Learning  
+- Natural Language Processing  
+- Explainable AI  
+- Data Analytics and Visualization  
 
 ---
 
-# 🎓 Education
+## Education
 
-**B.Tech – Computer Science Engineering (AI & ML)**  
-🏫 NRI Institute of Technology, Andhra Pradesh  
-📊 CGPA: **8.8**
+**Bachelor of Technology – Computer Science Engineering (AI & ML)**  
+NRI Institute of Technology, Andhra Pradesh  
+CGPA: **8.8**
 
 **Intermediate – MPC**  
-🏫 Sri Chaitanya Co-Ed Junior College  
-📈 Percentage: **93%**
+Sri Chaitanya Co-Ed Junior College  
+Percentage: **93%**
 
 ---
 
-# 🧠 Technical Skills
+## Technical Skills
 
-### 💻 Programming
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-### 🤖 AI / Machine Learning
-Machine Learning • Deep Learning • NLP • Transformer Models (BERT, XLNet)  
-Text Classification • Explainable AI (SHAP)
+### AI / Machine Learning
+Machine Learning • Deep Learning • Natural Language Processing  
+Transformer Models (BERT, XLNet) • Text Classification • Explainable AI (SHAP)
 
-### 📊 Data Analytics
-EDA • Power BI • Power Query • DAX • Data Visualization • Statistical Analysis
+### Data Analytics
+Exploratory Data Analysis (EDA) • Power BI • Power Query • DAX  
+Data Visualization • Statistical Analysis
 
-### ⚙ Backend & Tools
+### Backend and Tools
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-Jupyter Notebook • VS Code • Google Colab
+Jupyter Notebook • Visual Studio Code • Google Colab
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 📰 Hybrid Fake News Detection System
+### Hybrid Fake News Detection System
 
-⚙ **Tech Stack:** Python • FastText • XLNet • SHAP • Flask • MySQL  
+**Technology Stack**
 
-✨ Key Highlights:
+Python • FastText • XLNet • SHAP • Flask • MySQL  
 
-- Hybrid deep learning model combining **FastText + XLNet**
+**Highlights**
+
+- Developed hybrid deep learning model combining **FastText and XLNet**
 - Achieved **99.6% classification accuracy**
-- Implemented **Explainable AI with SHAP**
+- Implemented **Explainable AI using SHAP**
 - Built **Flask web interface for real-time news verification**
-- Integrated **MySQL backend database**
+- Integrated backend database using **MySQL**
 
 ---
 
-## 💬 NLP Sentiment Analysis System
+### NLP Sentiment Analysis System
 
-⚙ **Tech Stack:** Python • TF-IDF • Scikit-learn • FastAPI  
+**Technology Stack**
 
-✨ Key Highlights:
+Python • TF-IDF • Scikit-learn • FastAPI  
+
+**Highlights**
 
 - Built **end-to-end NLP pipeline**
-- Compared **Logistic Regression, Naive Bayes, and SVM**
-- Achieved **~89% prediction accuracy**
+- Compared **Logistic Regression, Naive Bayes, and SVM models**
+- Achieved **approximately 89% accuracy**
 - Evaluated models using **precision, recall, F1-score**
 - Developed **FastAPI REST API for real-time predictions**
 
 ---
 
-## 📊 Banking Analytics Dashboard
+### Banking Analytics Dashboard
 
-⚙ **Tech Stack:** Power BI • Python • Power Query • DAX  
+**Technology Stack**
 
-✨ Key Highlights:
+Power BI • Python • Power Query • DAX  
 
-- Dashboard analysing **50,000+ financial records**
-- Built **loan-to-deposit ratio and customer segmentation KPIs**
-- Cleaned datasets using **Power Query + Python**
-- Automated reporting pipelines reducing **manual work by 40%**
+**Highlights**
+
+- Built dashboard analyzing **50,000+ financial records**
+- Designed KPIs including **loan-to-deposit ratio and customer segmentation**
+- Performed **data cleaning using Power Query and Python**
+- Automated reporting pipelines reducing **manual effort by 40%**
 
 ---
 
-# 💼 Internship Experience
+## Internship Experience
 
-## 🏢 EY – GDS | AICTE | Edunet Foundation  
+### EY – GDS | AICTE | Edunet Foundation  
 **Advanced Data Analytics Intern (Feb 2024 – Apr 2024)**
 
 - Performed **Exploratory Data Analysis on structured datasets**
-- Conducted **data cleaning & statistical analysis**
+- Conducted **data cleaning, transformation and statistical analysis**
 - Built **Power BI dashboards tracking 10+ KPIs**
 - Automated reporting pipelines improving **efficiency by 40%**
 
 ---
 
-## 🏢 Verzeo Edutech Pvt Ltd  
+### Verzeo Edutech Pvt Ltd  
 **Machine Learning Intern (May 2022 – Jul 2022)**
 
-- Built **Sentiment Analysis system for 5000+ reviews**
-- Developed NLP pipelines using **NLTK & Scikit-learn**
-- Evaluated models achieving **78–85% accuracy**
+- Developed **Sentiment Analysis system for restaurant reviews with 5000+ entries**
+- Built NLP pipelines using **NLTK and Scikit-learn**
+- Evaluated machine learning classifiers achieving **78–85% accuracy**
 
 ---
 
-# 📜 Certifications
+## Certifications
 
-🏆 Paper Publication – **Fake News Detection using Hybrid Deep Learning (PICET Conference)**  
-
-📜 SQL and Relational Databases – **IBM CognitiveClass**
-
-📜 The Joy of Computing using Python – **NPTEL (IIT Madras)**
-
-📜 Microsoft Technology Associate – **Mobility & Device Fundamentals**
-
-📜 AI Workshops – **Be10X & Freedom with AI**
+- Paper Publication – **Fake News Detection using Hybrid Deep Learning (PICET Conference)**
+- SQL and Relational Databases – **IBM CognitiveClass**
+- The Joy of Computing using Python – **NPTEL (IIT Madras)**
+- Microsoft Technology Associate – **Mobility and Device Fundamentals**
+- AI Workshops – **Be10X and Freedom with AI**
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -167,7 +171,7 @@ Jupyter Notebook • VS Code • Google Colab
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsaikatukuri&theme=tokyo-night"/>
@@ -175,27 +179,27 @@ Jupyter Notebook • VS Code • Google Colab
 
 ---
 
-# 🌐 Connect With Me
+## Contact
 
-📧 **Email**  
+Email  
 katukuri.varunsai@gmail.com  
 
-🔗 **LinkedIn**  
+LinkedIn  
 linkedin.com/in/varunsaikatukuri  
 
-💻 **GitHub**  
+GitHub  
 github.com/varunsaikatukuri  
 
 ---
 
-# 💡 Philosophy
+## Philosophy
 
-> “AI becomes powerful when it solves real-world problems.”
+> AI becomes powerful when it solves real-world problems.
 
 ---
 
 <p align="center">
-⭐ If you like my projects, feel free to star the repositories!
+If you find my projects useful, feel free to star the repositories.
 </p>
 
 <p align="center">
